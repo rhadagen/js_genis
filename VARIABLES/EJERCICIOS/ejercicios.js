@@ -20,13 +20,12 @@ console.log(mensaje);
 // Input y Output
 
 // Pedir mediante prompts el nombre de dos mascotas y mostrar en consola un mensaje como el siguiente:
-
-// var masc1 = prompt("Escribe el nombre de la primera mascota");
-// var masc2 = prompt("Escribe el nombre de la segunda mascota");
+var masc1 = prompt("Escribe el nombre de la primer mascota");
+var masc2 = prompt("Escribe el nombre de la segunda mascota");
 
 // "Quiero mucho a mis mascotas mascota1 y mascota2"
 
-// console.log("Quiero mucho a mis mascotas: " + masc1 + " y " + masc2 );
+console.log("Quiero mucho a mis mascotas: " + masc1 + " y " + masc2 );
 
 
 // NOTA: mascota1 y mascota2 corresponden a los nombres introducidos mediante prompts
